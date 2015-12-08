@@ -1,4 +1,4 @@
-# Vagrant box with NGINX
+# Ansible provisioned Vagrant box with NGINX
 
 * installed by Ansible
 
